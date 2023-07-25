@@ -31,8 +31,6 @@ function Header() {
           <HeaderOption Icon = {ChatIcon} title='Messaging'/>
           <HeaderOption Icon = {NotificationsIcon} title='Notifications'/>
           <HeaderOption avatar="https://compassionate-leakey-e9b16b.netlify.app/images/IG_Sonny.jpeg" title='me'/>
-
-
         </div>
     </div>
   )
