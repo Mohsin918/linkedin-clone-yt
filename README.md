@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a React-based LinkedIn clone app using Redux for state management and Firebase as the backend database.
 
-#Screenshots
+# Screenshots
 ![first](https://github.com/Mohsin918/linkedin-clone-yt/assets/58115232/2a955bae-28f9-4170-adf9-7d3dc9b6c8fb)
 ![second](https://github.com/Mohsin918/linkedin-clone-yt/assets/58115232/10422a7b-32fd-4d6e-89ff-dde4bdf40f81)
 
-###Features
+# Features
 
 1. User Authentication: Users can sign up, log in, and log out securely using Firebase authentication.
 
@@ -20,7 +20,7 @@ This is a React-based LinkedIn clone app using Redux for state management and Fi
 
 5. Responsive Design: The app is built with a responsive design, ensuring compatibility across various devices and screen sizes.
 
-###Configuration
+# Configuration
 Before running the app, you need to configure Firebase settings:
 
 Go to the Firebase Console, create a new project (if you haven't already), and obtain your Firebase configuration credentials.
@@ -35,13 +35,11 @@ const firebaseConfig = {
   appId: "YOUR_APP_ID"
 };
 
-###Installation
+# Installation
  npm install
-
- ###Start
-
+ 
+# Start
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
